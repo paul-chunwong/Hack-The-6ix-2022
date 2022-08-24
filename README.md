@@ -96,6 +96,6 @@ Even though we faced difficulties in the back-end implementation, we still figur
 🔭 What's Next for Stock Stalker
 Looking to the future for Stock Stalker, we intend on implementing functions that connect our ESG evaluation site to the actual stock-buying organizations. Further implementation includes an additional page that provides the estimated price of the stock selected from the site with the buying options from different stock buying platforms so that the investors can compare and purchase the stock in a more convenient way.
 
-🌐 Best Domain Name from Domain.com
+AWARD Received: MLH: Best Domain Name from Domain.com
 As a part of our project, we registered stockstalkertech using Domain.com! You can also access it here.
 https://www.stockstalker.tech/
